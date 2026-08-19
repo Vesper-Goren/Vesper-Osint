@@ -13,14 +13,14 @@
 
 
 
-'''text
+```text
 __      __        _____            ____       _       _   
  \ \    / /       |  __ \          / __ \     (_)     | |  
   \ \  / /__  ___ | |__) |__ _ __ | |  | |___  _ _ __ | |_ 
    \ \/ / _ \/ __||  ___/ _ \ '__|| |  | / __|| | '_ \| __|
     \  /  __/\__ \| |  |  __/ |   | |__| \__ \| | | | | |_ 
-     \/ \___||___/|_|   \___|_|    \____/|___/|_|_| |_|\__| 
-'''
+     \/ \___||___/|_|   \___|_|    \____/|___/|_|_| |_|\__|
+```
 Merhaba, ben Berat. Üzerinde uzun süredir çalıştığım bir aracı sizinle paylaşmak istiyorum.
 
 Son zamanlarda siber güvenlik alanına yoğunlaştığım için eksik kaldığımı hissettiğim bir konu vardı: Yazılım dili öğrenmek. Bu alanda kendimi geliştirmek amacıyla bir süredir Python çalışıyorum. Öğrenme sürecimi teorikte bırakmayıp siber güvenlik uygulamaları geliştirerek pratik bir hale getirmeye çalıştım ve bu çabalarımın sonucunda kendi OSINT aracımı ortaya çıkardım.
